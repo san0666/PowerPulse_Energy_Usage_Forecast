@@ -1,7 +1,10 @@
 <h1 align="center">PowerPulse: Household Energy Usage Forecast</h1>
 
 PowerPulse is a machine learning project focused on predicting household energy consumption using historical electrical usage data. By analyzing minute-level features such as voltage, current, and time-based patterns, the project delivers insights into energy behavior and builds a predictive model to support smarter energy decisions.
-![Energy Consumption Chart](energy.jpg)
+
+<p align="center">
+  <img src="energy.jpg" width="500">
+</p>
 
 ---
 
